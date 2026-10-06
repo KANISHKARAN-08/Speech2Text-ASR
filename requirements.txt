@@ -1,0 +1,5 @@
+openai-whisper>=20231117
+torch>=2.0.0
+streamlit>=1.37.0
+pytest>=8.0.0
+imageio-ffmpeg>=0.4.9

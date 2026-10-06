@@ -1,0 +1,38 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit Local Config & Secrets
+.streamlit/secrets.toml
+
+# Audio Files (Prevent committing large audio data)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# Temporary Audio Dirs and Logs
+temp_audio*
+*.log
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
